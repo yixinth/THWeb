@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>天华主页</title>
 	 <meta charset="utf-8">
 </head>
 <body>
